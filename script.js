@@ -67,8 +67,8 @@
         "Topic: " + topic + "\n\n" +
         "Message:\n" + msg
       );
-      // PLACEHOLDER recipient — replace with the business's real email address
-      window.location.href = "mailto:info@tealeswus.com?subject=" + subject + "&body=" + body;
+      // Contact form recipient — tealeswus@shaw.ca (confirmed by owner 2026-10-05)
+      window.location.href = "mailto:tealeswus@shaw.ca?subject=" + subject + "&body=" + body;
     });
   }
 
